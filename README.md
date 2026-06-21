@@ -2,10 +2,7 @@
 
 An interactive, responsive, and fun web-based **Stone, Paper, Scissors** game built using basic frontend technologies. Play against the computer and test your luck!
 
-## 🔗 Live Demo
-👉 
 
----
 
 ## 🚀 Features
 * **Play Against AI:** The computer makes completely random and fair choices.
