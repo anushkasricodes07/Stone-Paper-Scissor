@@ -3,7 +3,7 @@
 An interactive, responsive, and fun web-based **Stone, Paper, Scissors** game built using basic frontend technologies. Play against the computer and test your luck!
 
 ## 🔗 Live Demo
-👉 **[Play the Game Live Here](https://anushkasrivastava07.github.io/Stone-Paper-Scissor/)**
+👉 
 
 ---
 
