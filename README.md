@@ -11,7 +11,7 @@ An interactive, responsive, and fun web-based **Stone, Paper, Scissors** game bu
 * **Modern & Responsive UI:** Clean, minimalist design that adapts beautifully to both mobile phones and desktop screens.
 
 ---
-## Project link:"https://anushkasricodes07.github.io/Stone-Paper-Scissor/"
+## Project link:"https:"
 
 ## 📂 Project Structure
 ```text
